@@ -1,0 +1,9 @@
+xivDatePeriod provides basic functionality for working with date intervals. 
+
+The set of classes are designed to provide easy analysis of relations between intersecting, contained, and otherwise 
+inter-related time spans.
+
+This is my first Java project, undertaken as a means to learn the Java language. Anyone who wished to fork and make improvements,
+please do. Make sure you annotate/comment any changes so that I can see where I might have done better. 
+
+I will be pushing improvements myself in the near future, including a demo and some much-needed refactorings. 
